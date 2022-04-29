@@ -2,8 +2,8 @@
 
 ## This was the assignment
 
- 	![](./design/desktop-design.jpg)
+![](./design/desktop-design.jpg)
   
   ## This is my solution
   
-   	![](./design/my-solution.jpg)
+![](./design/my-solution.jpg)
